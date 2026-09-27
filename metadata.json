@@ -1,0 +1,6 @@
+{
+  "name": "TikTok",
+  "description": "Short-form video platform featuring interactive feed, creator profiles, comments sheet, sound clips, and video creator studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
